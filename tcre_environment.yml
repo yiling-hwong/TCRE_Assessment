@@ -1,4 +1,4 @@
-name: base
+name: tcre-assessment
 channels:
   - conda-forge
   - defaults
@@ -13,6 +13,14 @@ dependencies:
   - conda-content-trust
   - conda-libmamba-solver
   - menuinst
-  - python.app
   - anaconda-anon-usage
-prefix: /Users/kmarvel/miniconda3
+  - jupyter
+  - pymc
+  - numpy
+  - xarray
+  - matplotlib
+  - seaborn
+  - arviz
+  - pandas
+  - pdfplumber
+  - netcdf4
