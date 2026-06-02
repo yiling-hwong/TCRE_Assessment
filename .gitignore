@@ -19,6 +19,8 @@ __pycache__/
 
 # Misc
 .DS_Store
+.idea
+.claude
 
 # Scratchwork
 SCRATCHWORK/
