@@ -25,3 +25,4 @@ dependencies:
   - pdfplumber
   - netcdf4
   - jupytext
+  - ipykernel
