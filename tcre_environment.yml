@@ -11,7 +11,7 @@ dependencies:
   #- conda-anaconda-tos[version='>=0.1.3']
   #- conda-content-trust
   #- conda-libmamba-solver
-  - menuinst
+  #- menuinst
   #- anaconda-anon-usage
   - jupyter
   - pymc
